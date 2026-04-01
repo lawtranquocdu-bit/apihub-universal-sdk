@@ -37,7 +37,7 @@ def run_setup():
     print(f"\n{Fore.MAGENTA}Finalizing security handshake...")
     time.sleep(2)
 
-    # ĐOẠN TROLL CUỐI CÙNG
+    # HÃY CHÚ Ý Ở ĐÂY
     print("\n" + "="*60)
     print(f"{Fore.RED}{Style.BRIGHT}!!! CẢNH BÁO BẢO MẬT: PHÁT HIỆN LỖI 'TIN NGƯỜI' !!!")
     print("="*60)
@@ -45,7 +45,7 @@ def run_setup():
     
     print(f"\n{Fore.YELLOW}{Style.BRIGHT}🤡 CHÚC MỪNG NGÀY CÁ THÁNG TƯ! 🤡")
     print(f"{Fore.WHITE}Chào bạn, làm gì có API Key nào 'Free' mà lại còn 'Unlimited' hả bạn?")
-    print(f"{Fore.CYAN}Hãy tắt terminal này, đi uống nước và đừng tin ai hôm nay nhé!")
+    print(f"{Fore.CYAN}Hãy tắt terminal này, đi uống nước LỌC hoặc nước CAM và đừng tin ai hôm nay nhé!")
     print(f"\n{Fore.GREEN}Gợi ý: Hãy gửi link cho bạn bè để lan tỏa 'sự cay cú' này.")
     print("="*60)
     
